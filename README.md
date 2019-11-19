@@ -4,7 +4,6 @@
  ### showMoadl 全局弹出框；
 
 * 使用方法 直接<script src="./showModal.js"></script>  showModals({})
-
 > * title	string		是	提示的标题
 > * content	string		是	提示的内容
 > * showCancel	boolean	true	否	是否显示取消按钮
